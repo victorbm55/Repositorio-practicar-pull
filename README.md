@@ -1,2 +1,2 @@
 # Repositorio-practicar-pull
-Para practicar pull
+Para practicar git pull
